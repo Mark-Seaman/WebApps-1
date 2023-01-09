@@ -1,4 +1,4 @@
-# Lesson 1 - Intermediate Web Development
+# Lesson 1 - Why Django?
 
 
 ## Course Introduction
